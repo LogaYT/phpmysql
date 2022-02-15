@@ -25,6 +25,7 @@ else{
         ?> <tr>
             <td>Nombre</td>
             <td>Dinero</td>
+            <td>Todo</td>
 
         </tr>
         <?php
